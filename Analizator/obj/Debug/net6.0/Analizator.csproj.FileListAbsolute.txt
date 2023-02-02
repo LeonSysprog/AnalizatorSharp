@@ -1,0 +1,17 @@
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\bin\Debug\net6.0\Analizator.exe
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\bin\Debug\net6.0\Analizator.deps.json
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\bin\Debug\net6.0\Analizator.runtimeconfig.json
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\bin\Debug\net6.0\Analizator.dll
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\bin\Debug\net6.0\Analizator.pdb
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\obj\Debug\net6.0\Analizator.csproj.AssemblyReference.cache
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\obj\Debug\net6.0\Analizator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\obj\Debug\net6.0\Analizator.AssemblyInfoInputs.cache
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\obj\Debug\net6.0\Analizator.AssemblyInfo.cs
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\obj\Debug\net6.0\Analizator.csproj.CoreCompileInputs.cache
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\obj\Debug\net6.0\Analizator.csproj.CopyComplete
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\obj\Debug\net6.0\Analizator.dll
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\obj\Debug\net6.0\refint\Analizator.dll
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\obj\Debug\net6.0\Analizator.pdb
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\obj\Debug\net6.0\Analizator.genruntimeconfig.cache
+C:\Users\sorok\Downloads\Eremeev\Analizator\Analizator\obj\Debug\net6.0\ref\Analizator.dll
